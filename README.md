@@ -1,0 +1,1 @@
+This repository contains a Javascript code example demonstrating unexpected behavior of the + operator when used with undefined and null values.  The example highlights the difference in how Javascript handles these values in arithmetic operations. Solutions are provided that handle these cases gracefully and avoid unexpected results.
